@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <HTML>
 <HEAD>
-<STYLE>
-table	{border-collapse:collapse}
-td	{border:1px solid red}
-</STYLE>
 </HEAD>
 <BODY>
 <h1>Onderwerpen DEV4</h1>
@@ -23,7 +19,7 @@ td	{border:1px solid red}
 <div id="voltijd">
 Lessen starten om 8:30 uur op maandag.
 
-<TABLE>
+<TABLE style = 'border:1px solid red;border-collapse:collapse'>
 <TR>
 <TD>ma
 <TD>di
