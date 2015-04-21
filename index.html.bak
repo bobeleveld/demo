@@ -6,16 +6,19 @@
 <BODY>
 <h1>Onderwerpen INFDEV01-4</h1>
 <ul>
-	<li>Android Manifest File<\li>
-	<li>Debugging</li>
-	<li>Code Walk Through</li>
-	<li>Automtisch Testen</li>
-	<li>Google Play Store</li>
-	<li>In App Purchases</li>
-	<li>Versiebeheer</li>
-	<li>Google Analytics</li>
+  <li>Android Manifest File<\li>
+  <li>Versiebeheer</li>
+  <li>Debugging</li>
+  <li>Code Walk Through</li>
+  <li>Automtisch Testen</li>
+  <li>Google Play Store</li>
+  <li>In App Purchases</li>
+  <li>Google Analytics</li>
 </ul>
-<DIV style = 'border:1px solid blue'>Deeltijd stuff</DIV>
-laatste wijziging: 16:10 uur
+
+<h2>Lestijden</h2>
+<div id="voltijd">
+Lessen starten om half negen op maandag.
+</div>
 </BODY>
 </HTML>
